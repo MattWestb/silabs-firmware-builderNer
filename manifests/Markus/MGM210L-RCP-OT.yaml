@@ -1,5 +1,5 @@
 name: Markus OpenThread RCP
-device: MGM210L022JNF2
+device: MGM210L022JNF
 base_project: src/openthread_rcp
 filename: "{manifest_name}_{ot_rcp_version}_{baudrate}_{fw_variant}"
 sdk: "simplicity_sdk:2025.6.2"
